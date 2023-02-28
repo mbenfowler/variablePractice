@@ -10,7 +10,7 @@ function doesMathEqual(num1, num2, num3) {
     return num1 - num2 === num3
 };
 
-var assignmentComplete = false;
+var assignmentComplete = true;
 var sunnyWeather = true;
 var hasCats = true;
 
