@@ -23,3 +23,9 @@ console.log(`Are both sides equal? ${doesMathEqual(rageAge, fidgetDigit, cucumbe
 console.log(`Is this assignment complete? ${assignmentComplete}`);
 console.log(`Is it sunny outside? ${sunnyWeather}`);
 console.log(`Do I have cats? ${hasCats}`);
+
+greatString = "boo";
+bestString = "hoo";
+fabString = "hooooooooo";
+
+console.log(`${greatString} ${bestString} ${fabString}`)
