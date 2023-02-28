@@ -7,7 +7,7 @@ var fidgetDigit = 8;
 var rageAge = 14;
 
 function doesMathEqual(num1, num2, num3) {
-    return num1 - num2 === num3
+    return num1 - num2 === num3;
 };
 
 var assignmentComplete = true;
@@ -20,6 +20,6 @@ console.log(`Also, ${fabString}.`);
 
 console.log(`Are both sides equal? ${doesMathEqual(rageAge, fidgetDigit, cucumberNumber)}`);
 
-console.log(`Is this assignment complete? ${assignmentComplete}`)
-console.log(`Is it sunny outside? ${sunnyWeather}`)
-console.log(`Do I have cats? ${hasCats}`)
+console.log(`Is this assignment complete? ${assignmentComplete}`);
+console.log(`Is it sunny outside? ${sunnyWeather}`);
+console.log(`Do I have cats? ${hasCats}`);
